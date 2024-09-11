@@ -1,0 +1,1 @@
+function waitingTime(waitingTimes, serialNumber) {}
